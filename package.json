@@ -1,0 +1,25 @@
+{
+  "name": "0x-types-v0",
+  "version": "0.8.2",
+  "description": "Package exporting v0.x of @0xproject/types",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AntonioJuliano/0x-types-v0.git"
+  },
+  "keywords": [
+    "@0xproject/types"
+  ],
+  "author": "Antonio Juliano",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AntonioJuliano/0x-types-v0/issues"
+  },
+  "homepage": "https://github.com/AntonioJuliano/0x-types-v0#readme",
+  "dependencies": {
+    "@0xproject/types": "0.8.2"
+  }
+}
